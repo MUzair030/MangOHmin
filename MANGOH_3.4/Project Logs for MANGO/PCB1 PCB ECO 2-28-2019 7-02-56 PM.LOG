@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=U3(NSBC114YDP6T5G)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-3
+Added Pin To Net: NetName=NetD6_1 Pin=U3-3
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetP1_60 Pin=P1-60
+Added Pin To Net: NetName=NetP1_60 Pin=U3-5
+Added Net: Name=NetP1_60
+Added Member To Class: ClassName=Sheet3 Member=Component U3 B: NSBC114YDP6T5G

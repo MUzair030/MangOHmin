@@ -1,0 +1,28 @@
+Added Component: Designator=J4(Molex_104168-1620_MFG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J4-G1
+Added Pin To Net: NetName=GND Pin=J4-G2
+Added Pin To Net: NetName=GND Pin=J4-G3
+Added Pin To Net: NetName=GND Pin=J4-G4
+Added Pin To Net: NetName=GND Pin=J4-G5
+Added Pin To Net: NetName=GND Pin=J4-G6
+Added Pin To Net: NetName=GND Pin=J4-G7
+Added Pin To Net: NetName=GND Pin=J4-G8
+Added Pin To Net: NetName=UIM1_VCC Pin=J4-S1
+Added Pin To Net: NetName=NetD3_1 Pin=J4-S2
+Added Pin To Net: NetName=NetD3_3 Pin=J4-S3
+Added Pin To Net: NetName=GND Pin=J4-S5
+Added Pin To Net: NetName=UIM1_VCC Pin=J4-S7
+Added Pin To Net: NetName=NetC31_2 Pin=J4-S/W
+Added Pin To Net: NetName=NetIC4_3 Pin=J4-T1
+Added Pin To Net: NetName=NetIC4_5 Pin=J4-T2
+Added Pin To Net: NetName=NetIC4_7 Pin=J4-T3
+Added Pin To Net: NetName=VCC_2V95 Pin=J4-T4
+Added Pin To Net: NetName=NetJ4_T5 Pin=J4-T5
+Added Pin To Net: NetName=NetIC4_1 Pin=J4-T7
+Added Pin To Net: NetName=NetIC4_2 Pin=J4-T8
+Added Member To Class: ClassName=Sheet5 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component IC? USB ESD Solution with Power
+Added Member To Class: ClassName=Sheet4 Member=Component J4 104168-1620
+Added Member To Class: ClassName=Sheet5 Member=Component J? 105450-0101
+Added Member To Class: ClassName=Sheet5 Member=Component P? Header 3

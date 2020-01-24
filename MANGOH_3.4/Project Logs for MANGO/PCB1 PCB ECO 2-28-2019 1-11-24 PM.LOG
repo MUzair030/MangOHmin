@@ -1,0 +1,24 @@
+Added Component: Designator=J?(*MOLEX_105450-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1054500101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-A1
+Added Pin To Net: NetName=NetJ?_A4 Pin=J?-A4
+Added Pin To Net: NetName=NetJ?_A4 Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=NetJ?_A4 Pin=J?-B4
+Added Pin To Net: NetName=NetJ?_A4 Pin=J?-B9
+Added Pin To Net: NetName=GND Pin=J?-B12
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S3
+Added Pin To Net: NetName=GND Pin=J?-S4
+Added Member To Class: ClassName=Sheet5 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component IC? USB ESD Solution with Power
+Added Member To Class: ClassName=Sheet5 Member=Component J? 105450-0101
+Added Member To Class: ClassName=Sheet5 Member=Component P? Header 3

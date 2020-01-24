@@ -1,0 +1,151 @@
+Change Component Comment : Designator=R9 Old Comment=Res1 New Comment=
+Change Component Comment : Designator=R10 Old Comment=Res1 New Comment=
+Change Component Comment : Designator=R11 Old Comment=Res1 New Comment=
+Added Component: Designator=C?(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JMK107BJ106MA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(1608[0603])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JMK107BJ106MA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_3_PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(SON50P100X145X60-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON50P100X145X60-6N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Part_Number"; Value = "9215125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/9215125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SON50P100X145X60-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SON50P100X145X60-6N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Part_Number"; Value = "9215125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/9215125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Added Component: Designator=J?(*HRS_ZX62R-B-5P_ZX62R-B-5P(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZX62R-B-5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62R-B-5P/Hirose%20Electric%20Co%20Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=U2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=Net*1_3 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=Net*1_3 Pin=D2-3
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=USB_VBUS_CONSOLE Pin=P?-1
+Added Pin To Net: NetName=USB_VBUS_CONSOLE Pin=P?-1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-1
+Added Pin To Net: NetName=UART2_RX_3V3 Pin=U2-2
+Added Pin To Net: NetName=UART0_TX_3V3 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetU1_4 Pin=U2-5
+Added Pin To Net: NetName=NetU1_8 Pin=U2-6
+Added Pin To Net: NetName=NetR1_2 Pin=U2-7
+Added Pin To Net: NetName=VGPIO Pin=U2-8
+Change Net Name : Old Net Name=NetC32_2 New Net Name=Net*?_2
+Added Pin To Net: NetName=ANT_CTL_0 Pin=P1-153
+Added Net: Name=ANT_CTL_0
+Added Pin To Net: NetName=ANT_CTL_1 Pin=P1-154
+Added Net: Name=ANT_CTL_1
+Added Pin To Net: NetName=ANT_CTL_2 Pin=P1-155
+Added Net: Name=ANT_CTL_2
+Added Pin To Net: NetName=ANT_CTL_3 Pin=P1-156
+Added Net: Name=ANT_CTL_3
+Added Pin To Net: NetName=Net*?_1 Pin=P1-59
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-3
+Added Net: Name=NetC?_2
+Added Net: Name=NetI?_3
+Added Net: Name=NetI?_4
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=J?-4
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S1
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S2
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S3
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S4
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S5
+Added Pin To Net: NetName=NetJ?_S1 Pin=J?-S6
+Added Net: Name=NetJ?_S1
+Added Pin To Net: NetName=NetP1_105 Pin=P1-105
+Added Net: Name=NetP1_105
+Added Pin To Net: NetName=USB_CN_D+ Pin=IC?-2
+Added Pin To Net: NetName=USB_CN_D+ Pin=IC?-2
+Added Pin To Net: NetName=USB_CN_D+ Pin=J?-3
+Added Net: Name=USB_CN_D+
+Added Pin To Net: NetName=USB_CN_D- Pin=IC?-3
+Added Pin To Net: NetName=USB_CN_D- Pin=IC?-3
+Added Pin To Net: NetName=USB_CN_D- Pin=J?-2
+Added Net: Name=USB_CN_D-
+Added Pin To Net: NetName=USB_VBUS Pin=IC?-6
+Added Pin To Net: NetName=USB_VBUS Pin=IC?-6
+Added Pin To Net: NetName=USB_VBUS Pin=P?-2
+Added Pin To Net: NetName=USB_VBUS Pin=P?-2
+Added Pin To Net: NetName=USB_VBUS Pin=R?-1
+Added Net: Name=USB_VBUS
+Added Pin To Net: NetName=VBAT_BB Pin=R14-1
+Added Pin To Net: NetName=VBAT_BB Pin=R?-2
+Added Net: Name=VBAT_BB
+Added Class: Name=Sheet5
+Added Member To Class: ClassName=Sheet3 Member=Component D2 LED_3_PIN
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 74LVC2G126HD4-7
+Added Room: Name=Sheet5

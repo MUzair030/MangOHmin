@@ -1,0 +1,7 @@
+Change Physical Footprint: Designator=C55 Old Footprint=F720J158MMC New Footprint=F720J158MMC
+Change Physical Footprint: Designator=D6 Old Footprint=LED_3_PIN New Footprint=LED_3_PIN
+Change Physical Footprint: Designator=D7 Old Footprint=LED_0603 - 3D New Footprint=LED_0603 - 3D
+Change Physical Footprint: Designator=J4 Old Footprint=Molex_104168-1620_MFG New Footprint=Molex_104168-1620_MFG
+Change Physical Footprint: Designator=J6 Old Footprint=*MOLEX_105450-0101 New Footprint=*MOLEX_105450-0101
+Change Physical Footprint: Designator=SW1 Old Footprint=Switch_SKTDLDE010 New Footprint=Switch_SKTDLDE010
+Change Physical Footprint: Designator=SW2 Old Footprint=Switch_SKTDLDE010 New Footprint=Switch_SKTDLDE010

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet2 Member=R17
+Removed Member From Class: ClassName=Sheet3 Member=R57
+Removed Member From Class: ClassName=Sheet3 Member=R58
+Removed Member From Class: ClassName=Sheet3 Member=R59
+Removed Member From Class: ClassName=Sheet3 Member=R60
+Added Member To Class: ClassName=Sheet1 Member=Component R2 DNI
+Added Member To Class: ClassName=Sheet2 Member=Component R16 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R45 DNI
+Added Member To Class: ClassName=Sheet3 Member=Component R46 DNI
+Added Member To Class: ClassName=Sheet3 Member=Component R51 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R53 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R56 DNI

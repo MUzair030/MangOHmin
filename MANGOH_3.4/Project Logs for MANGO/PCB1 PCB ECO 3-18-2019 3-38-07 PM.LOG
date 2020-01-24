@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=NetIC1_8 Pin=R1-2
+Removed Pin From Net: NetName=NetIC1_9 Pin=R2-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=RaspberryPi_A_1-1
+Removed Pin From Net: NetName=GND Pin=RaspberryPi_A_1-6
+Removed Pin From Net: NetName=GND Pin=RaspberryPi_A_1-9
+Removed Pin From Net: NetName=NetIC1_17 Pin=RaspberryPi_A_1-10
+Removed Pin From Net: NetName=NetIC1_18 Pin=RaspberryPi_A_1-11
+Removed Pin From Net: NetName=NetIC1_15 Pin=RaspberryPi_A_1-12
+Removed Pin From Net: NetName=NetIC1_19 Pin=RaspberryPi_A_1-13
+Removed Pin From Net: NetName=GND Pin=RaspberryPi_A_1-14
+Removed Pin From Net: NetName=NetIC1_16 Pin=RaspberryPi_A_1-15
+Removed Pin From Net: NetName=NetIC2_12 Pin=RaspberryPi_A_1-16
+Removed Pin From Net: NetName=VCC_3V3 Pin=RaspberryPi_A_1-17
+Removed Pin From Net: NetName=NetIC2_13 Pin=RaspberryPi_A_1-18
+Removed Pin From Net: NetName=NetIC2_18 Pin=RaspberryPi_A_1-19
+Removed Pin From Net: NetName=GND Pin=RaspberryPi_A_1-20
+Removed Pin From Net: NetName=NetIC2_19 Pin=RaspberryPi_A_1-21
+Removed Pin From Net: NetName=NetIC2_14 Pin=RaspberryPi_A_1-22
+Removed Pin From Net: NetName=NetIC2_15 Pin=RaspberryPi_A_1-24
+Removed Pin From Net: NetName=GND Pin=RaspberryPi_A_1-25
+Removed Member From Class: ClassName=Sheet1 Member=L2
+Removed Member From Class: ClassName=Sheet1 Member=L3
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=Sheet1 Member=R12
+Removed Member From Class: ClassName=Sheet1 Member=RaspberryPi_A_1
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=DNI
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=DNI
+Change Component Designator: OldDesignator=L4 NewDesignator=L2
+Change Component Designator: OldDesignator=L5 NewDesignator=L3
+Change Component Designator: OldDesignator=L6 NewDesignator=L4
+Change Component Designator: OldDesignator=L7 NewDesignator=L5
+Change Component Designator: OldDesignator=L8 NewDesignator=L6
+Change Component Designator: OldDesignator=L9 NewDesignator=L7
+Change Component Designator: OldDesignator=L10 NewDesignator=L8
+Change Component Designator: OldDesignator=L11 NewDesignator=L9
+Change Component Designator: OldDesignator=L12 NewDesignator=L10
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Added Component: Designator=P1(HDR2X13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1ETTP/2019-RK73Z1ETTPCT-ND/9846740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1ETTP/2019-RK73Z1ETTPCT-ND/9846740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=IC1-12
+Added Pin To Net: NetName=NetC14_1 Pin=IC2-4
+Added Pin To Net: NetName=NetC15_1 Pin=IC2-5
+Added Pin To Net: NetName=VCC_3V3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetIC1_14 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetIC1_9 Pin=P1-11
+Added Pin To Net: NetName=NetIC1_18 Pin=P1-12
+Added Pin To Net: NetName=NetIC1_8 Pin=P1-13
+Added Pin To Net: NetName=NetIC1_19 Pin=P1-14
+Added Pin To Net: NetName=NetIC2_18 Pin=P1-15
+Added Pin To Net: NetName=NetIC1_16 Pin=P1-16
+Added Pin To Net: NetName=NetIC2_19 Pin=P1-17
+Added Pin To Net: NetName=NetIC1_17 Pin=P1-18
+Added Pin To Net: NetName=NetIC2_12 Pin=P1-19
+Added Pin To Net: NetName=NetIC2_13 Pin=P1-21
+Added Pin To Net: NetName=NetIC2_15 Pin=P1-23
+Added Pin To Net: NetName=NetIC2_14 Pin=P1-25
+Added Pin To Net: NetName=NetIC1_9 Pin=R1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_8 Pin=R2-1
+Added Pin To Net: NetName=NetIC1_13 Pin=R2-2
+Added Pin To Net: NetName=NetIC1_8 Pin=R14-2
+Added Pin To Net: NetName=NetIC1_9 Pin=R15-2
+Change Net Name : Old Net Name=NetP1_10 New Net Name=NetP2_10
+Change Net Name : Old Net Name=NetP1_11 New Net Name=NetP2_11
+Change Net Name : Old Net Name=NetP1_16 New Net Name=NetP2_16
+Change Net Name : Old Net Name=NetP1_19 New Net Name=NetP2_19
+Change Net Name : Old Net Name=NetP1_22 New Net Name=NetP2_22
+Change Net Name : Old Net Name=NetP1_23 New Net Name=NetP2_23
+Change Net Name : Old Net Name=NetP1_45 New Net Name=NetP2_45
+Change Net Name : Old Net Name=NetP1_59 New Net Name=NetP2_59
+Change Net Name : Old Net Name=NetP1_60 New Net Name=NetP2_60
+Change Net Name : Old Net Name=NetP1_91 New Net Name=NetP2_91
+Change Net Name : Old Net Name=NetP1_104 New Net Name=NetP2_104
+Change Net Name : Old Net Name=NetP1_105 New Net Name=NetP2_105
+Change Net Name : Old Net Name=NetP1_107 New Net Name=NetP2_107
+Added Pin To Net: NetName=NetIC2_16 Pin=IC2-16
+Added Pin To Net: NetName=NetIC2_16 Pin=P1-10
+Added Net: Name=NetIC2_16
+Added Pin To Net: NetName=NetIC3_12 Pin=IC3-12
+Added Pin To Net: NetName=NetIC3_12 Pin=P1-5
+Added Net: Name=NetIC3_12
+Added Pin To Net: NetName=NetIC3_13 Pin=IC3-13
+Added Pin To Net: NetName=NetIC3_13 Pin=P1-8
+Added Net: Name=NetIC3_13
+Added Pin To Net: NetName=NetIC3_14 Pin=IC3-14
+Added Pin To Net: NetName=NetIC3_14 Pin=P1-7
+Added Net: Name=NetIC3_14
+Added Pin To Net: NetName=NetIC3_15 Pin=IC3-15
+Added Pin To Net: NetName=NetIC3_15 Pin=P1-9
+Added Net: Name=NetIC3_15
+Added Pin To Net: NetName=NetIC3_16 Pin=IC3-16
+Added Pin To Net: NetName=NetIC3_16 Pin=P1-20
+Added Net: Name=NetIC3_16
+Added Pin To Net: NetName=NetIC3_17 Pin=IC3-17
+Added Pin To Net: NetName=NetIC3_17 Pin=P1-22
+Added Net: Name=NetIC3_17
+Added Pin To Net: NetName=NetIC3_18 Pin=IC3-18
+Added Pin To Net: NetName=NetIC3_18 Pin=P1-24
+Added Net: Name=NetIC3_18
+Added Pin To Net: NetName=NetIC3_19 Pin=IC3-19
+Added Pin To Net: NetName=NetIC3_19 Pin=P1-26
+Added Net: Name=NetIC3_19
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R15-1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetP2_66 Pin=P2-66
+Added Pin To Net: NetName=NetP2_66 Pin=R14-1
+Added Net: Name=NetP2_66
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 13X2
+Added Member To Class: ClassName=Sheet2 Member=Component R14 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R15 Res1

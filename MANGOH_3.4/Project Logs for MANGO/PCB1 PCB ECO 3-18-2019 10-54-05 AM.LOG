@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=Sheet2 Member=C12
+Removed Member From Class: ClassName=Sheet2 Member=C29
+Removed Member From Class: ClassName=Sheet1 Member=IC4
+Removed Member From Class: ClassName=Sheet4 Member=R27
+Removed Member From Class: ClassName=Sheet4 Member=R28
+Removed Member From Class: ClassName=Sheet5 Member=R28
+Removed Member From Class: ClassName=Sheet5 Member=R34
+Change Component Footprint: Designator=D7 Old Footprint=3.2X1.6X1.1 New Footprint=LED_0603 - 3D
+Change Component Footprint: Designator=C55 Old Footprint=2220 New Footprint=F720J158MMC
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C13 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C17 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C25 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C26 Cap Semi
+Added Member To Class: ClassName=Sheet3 Member=Component C28 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C33 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C34 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C44 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C48 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C55 Cap Pol3
+Added Member To Class: ClassName=Sheet5 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C57 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C58 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C59 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C60 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C65 Cap Semi
+Added Member To Class: ClassName=Sheet7 Member=Component C68 Cap Semi
+Added Member To Class: ClassName=Sheet7 Member=Component I2 Inductor_TCM1210-900-2P-T000
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 
+Added Member To Class: ClassName=Sheet4 Member=Component IC5 
+Added Member To Class: ClassName=Sheet5 Member=Component IC6 TPS62420QDRCRQ1
+Added Member To Class: ClassName=Sheet7 Member=Component IC7 USB ESD Solution with Power
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R20 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R21 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R22 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R23 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R24 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R25 DNI
+Added Member To Class: ClassName=Sheet3 Member=Component R32 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R35 DNI
+Added Member To Class: ClassName=Sheet4 Member=Component R36 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R37 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R41 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R42 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R43 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R44 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R45 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R46 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R48 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component U1 Part Number: XC6223H29B9R-G

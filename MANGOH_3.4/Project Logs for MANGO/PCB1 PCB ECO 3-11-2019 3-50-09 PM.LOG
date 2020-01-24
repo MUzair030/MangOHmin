@@ -1,0 +1,177 @@
+Removed Member From Class: ClassName=Sheet3 Member=C18
+Removed Member From Class: ClassName=Sheet4 Member=C18
+Removed Member From Class: ClassName=Sheet4 Member=C20
+Removed Member From Class: ClassName=Sheet5 Member=C20
+Removed Member From Class: ClassName=Sheet3 Member=C21
+Removed Member From Class: ClassName=Sheet4 Member=C21
+Removed Member From Class: ClassName=Sheet5 Member=C21
+Removed Member From Class: ClassName=Sheet5 Member=C22
+Removed Member From Class: ClassName=Sheet3 Member=C23
+Removed Member From Class: ClassName=Sheet5 Member=C23
+Removed Member From Class: ClassName=Sheet4 Member=C27
+Removed Member From Class: ClassName=Sheet5 Member=C27
+Removed Member From Class: ClassName=Sheet5 Member=C28
+Removed Member From Class: ClassName=Sheet5 Member=C30
+Removed Member From Class: ClassName=Sheet5 Member=C31
+Removed Member From Class: ClassName=Sheet5 Member=C34
+Removed Member From Class: ClassName=Sheet7 Member=C36
+Removed Member From Class: ClassName=Sheet6 Member=J5
+Removed Member From Class: ClassName=Sheet6 Member=J6
+Removed Member From Class: ClassName=Sheet1 Member=L6
+Removed Member From Class: ClassName=Sheet6 Member=P2
+Removed Member From Class: ClassName=Sheet3 Member=R21
+Removed Member From Class: ClassName=Sheet3 Member=R23
+Removed Member From Class: ClassName=Sheet3 Member=R24
+Removed Member From Class: ClassName=Sheet4 Member=R39
+Removed Member From Class: ClassName=Sheet4 Member=R40
+Removed Member From Class: ClassName=Sheet4 Member=R41
+Removed Member From Class: ClassName=Sheet4 Member=R45
+Removed Member From Class: ClassName=Sheet5 Member=R45
+Removed Member From Class: ClassName=Sheet5 Member=R46
+Removed Member From Class: ClassName=Sheet5 Member=R51
+Removed Member From Class: ClassName=Sheet5 Member=R52
+Removed Member From Class: ClassName=Sheet6 Member=R52
+Removed Member From Class: ClassName=Sheet5 Member=R53
+Removed Member From Class: ClassName=Sheet6 Member=R56
+Removed Member From Class: ClassName=Sheet6 Member=R57
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=VCC_3V7 Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=VBATT_RF Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=VBATT_RF Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VBATT_RF Pin=C55-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=VBATT_RF Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=VCC_3V7 Pin=C58-2
+Added Pin To Net: NetName=USB_VBUS Pin=C65-2
+Added Pin To Net: NetName=USB_VBUS Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=V_IN Pin=C67-2
+Added Pin To Net: NetName=USB_CN_D- Pin=I2-1
+Added Pin To Net: NetName=USB_CN_D+ Pin=I2-2
+Added Pin To Net: NetName=NetI1_3 Pin=I2-3
+Added Pin To Net: NetName=NetI1_4 Pin=I2-4
+Added Pin To Net: NetName=NetIC6_1 Pin=IC6-1
+Added Pin To Net: NetName=USB_CN_D+ Pin=IC6-2
+Added Pin To Net: NetName=USB_CN_D- Pin=IC6-3
+Added Pin To Net: NetName=GND Pin=IC6-4
+Added Pin To Net: NetName=USB_VBUS Pin=IC6-6
+Added Pin To Net: NetName=NetIC7_1 Pin=IC7-1
+Added Pin To Net: NetName=NetIC7_2 Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=VCC_3V3 Pin=IC7-4
+Added Pin To Net: NetName=NetIC7_5 Pin=IC7-5
+Added Pin To Net: NetName=NetIC7_6 Pin=IC7-6
+Added Pin To Net: NetName=NetIC7_7 Pin=IC7-7
+Added Pin To Net: NetName=NetIC7_8 Pin=IC7-8
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=GND Pin=IC7-10
+Added Pin To Net: NetName=VCC_1V8 Pin=IC7-12
+Added Pin To Net: NetName=NetIC7_13 Pin=IC7-13
+Added Pin To Net: NetName=NetIC7_14 Pin=IC7-14
+Added Pin To Net: NetName=NetIC7_15 Pin=IC7-15
+Added Pin To Net: NetName=GND Pin=IC7-17
+Added Pin To Net: NetName=VCC_1V8 Pin=IC7-18
+Added Pin To Net: NetName=NetIC7_20 Pin=IC7-20
+Added Pin To Net: NetName=NetIC7_21 Pin=IC7-21
+Added Pin To Net: NetName=NetIC7_22 Pin=IC7-22
+Added Pin To Net: NetName=NetIC7_23 Pin=IC7-23
+Added Pin To Net: NetName=NetIC7_24 Pin=IC7-24
+Added Pin To Net: NetName=NetIC7_25 Pin=IC7-25
+Added Pin To Net: NetName=GND Pin=IC7-26
+Added Pin To Net: NetName=NetIC7_27 Pin=IC7-27
+Added Pin To Net: NetName=NetIC7_28 Pin=IC7-28
+Added Pin To Net: NetName=GND Pin=IC7-29
+Added Pin To Net: NetName=USB_VBUS Pin=J6-1
+Added Pin To Net: NetName=USB_CN_D- Pin=J6-2
+Added Pin To Net: NetName=USB_CN_D+ Pin=J6-3
+Added Pin To Net: NetName=NetIC6_1 Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-S1
+Added Pin To Net: NetName=GND Pin=J6-S2
+Added Pin To Net: NetName=GND Pin=J6-S3
+Added Pin To Net: NetName=GND Pin=J6-S4
+Added Pin To Net: NetName=GND Pin=J6-S5
+Added Pin To Net: NetName=GND Pin=J6-S6
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=V_IN Pin=L2-2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=V_IN Pin=L3-2
+Added Pin To Net: NetName=USB_VBUS Pin=L11-1
+Added Pin To Net: NetName=V_IN Pin=L11-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R61-1
+Added Pin To Net: NetName=NetIC7_27 Pin=R61-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R62-1
+Added Pin To Net: NetName=NetIC7_28 Pin=R62-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R63-1
+Added Pin To Net: NetName=NetIC7_1 Pin=R63-2
+Added Pin To Net: NetName=NetIC7_6 Pin=R64-1
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetIC7_28 Pin=R67-1
+Added Pin To Net: NetName=GND Pin=R67-2
+Added Pin To Net: NetName=VCC_1V8 Pin=R69-1
+Added Pin To Net: NetName=NetIC7_9 Pin=R69-2
+Added Pin To Net: NetName=NetIC7_13 Pin=R72-1
+Added Pin To Net: NetName=NetR22_2 Pin=R72-2
+Added Member To Class: ClassName=Sheet2 Member=Component C22 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C23 Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C24 Cap Semi
+Added Member To Class: ClassName=Sheet3 Member=Component C25 Cap Semi
+Added Member To Class: ClassName=Sheet3 Member=Component C26 Cap Semi
+Added Member To Class: ClassName=Sheet3 Member=Component C28 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C29 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C32 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C33 Cap Semi
+Added Member To Class: ClassName=Sheet4 Member=Component C34 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C35 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C37 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C38 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C41 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C45 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C46 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C47 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C48 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C49 DNI
+Added Member To Class: ClassName=Sheet5 Member=Component C51 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C52 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C53 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C54 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C55 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C57 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C58 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C60 Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component C63 Cap Semi
+Added Member To Class: ClassName=Sheet7 Member=Component C64 Cap Semi
+Added Member To Class: ClassName=Sheet7 Member=Component C67 Cap Semi
+Added Member To Class: ClassName=Sheet7 Member=Component I2 Inductor_TCM1210-900-2P-T000
+Added Member To Class: ClassName=Sheet7 Member=Component IC6 USB ESD Solution with Power
+Added Member To Class: ClassName=Sheet6 Member=Component IC7 GPIO Expanders
+Added Member To Class: ClassName=Sheet1 Member=Component L2 Inductor
+Added Member To Class: ClassName=Sheet1 Member=Component L3 Inductor
+Added Member To Class: ClassName=Sheet5 Member=Component L4 Inductor
+Added Member To Class: ClassName=Sheet5 Member=Component L5 Inductor
+Added Member To Class: ClassName=Sheet5 Member=Component L9 Inductor
+Added Member To Class: ClassName=Sheet5 Member=Component L10 Inductor
+Added Member To Class: ClassName=Sheet2 Member=Component R25 Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R26 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R27 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R28 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R43 DNI
+Added Member To Class: ClassName=Sheet3 Member=Component R44 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R45 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R48 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R51 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R52 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R53 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R54 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R55 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R58 Res1
+Added Member To Class: ClassName=Sheet5 Member=Component R59 DNI
+Added Member To Class: ClassName=Sheet5 Member=Component R60 Res1
+Added Member To Class: ClassName=Sheet6 Member=Component R61 DNI
+Added Member To Class: ClassName=Sheet6 Member=Component R62 DNI
+Added Member To Class: ClassName=Sheet6 Member=Component R63 DNI

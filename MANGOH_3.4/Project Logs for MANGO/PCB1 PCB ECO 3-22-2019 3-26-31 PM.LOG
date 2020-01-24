@@ -1,0 +1,303 @@
+Removed Pin From Net: NetName=VCC_1V8 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=NetC17_2 Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=NetC17_2 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=UIM1_VCC Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=NetC32_2 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=NetC46_2 Pin=C46-2
+Removed Pin From Net: NetName=GND Pin=C52-1
+Removed Pin From Net: NetName=VBATT_RF Pin=C52-2
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=VBATT_RF Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=C54-1
+Removed Pin From Net: NetName=VBATT_RF Pin=C54-2
+Removed Pin From Net: NetName=GND Pin=C62-1
+Removed Pin From Net: NetName=VBATT_MAIN_Supply Pin=C62-2
+Removed Pin From Net: NetName=GND Pin=C63-1
+Removed Pin From Net: NetName=VBATT_MAIN_Supply Pin=C63-2
+Removed Pin From Net: NetName=GND Pin=C66-1
+Removed Pin From Net: NetName=VBATT_BB Pin=C66-2
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=VBATT_BB Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C68-1
+Removed Pin From Net: NetName=USB_VBUS Pin=C68-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=NetC7_1 Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=NetC28_2 Pin=D5-2
+Removed Pin From Net: NetName=USB_CN_D- Pin=I1-1
+Removed Pin From Net: NetName=USB_CN_D+ Pin=I1-2
+Removed Pin From Net: NetName=NetI1_3 Pin=I1-3
+Removed Pin From Net: NetName=NetI1_4 Pin=I1-4
+Removed Pin From Net: NetName=NetC25_2 Pin=IC1-4
+Removed Pin From Net: NetName=NetC14_1 Pin=IC2-4
+Removed Pin From Net: NetName=NetC15_1 Pin=IC2-5
+Removed Pin From Net: NetName=VCC_1V8 Pin=IC3-1
+Removed Pin From Net: NetName=NetC23_2 Pin=IC3-2
+Removed Pin From Net: NetName=NetC27_2 Pin=IC3-8
+Removed Pin From Net: NetName=GND Pin=IC3-10
+Removed Pin From Net: NetName=VCC_3V3 Pin=IC3-20
+Removed Pin From Net: NetName=GND Pin=IC3-21
+Removed Pin From Net: NetName=GND Pin=IC4-3
+Removed Pin From Net: NetName=USB_CN_D+ Pin=IC7-2
+Removed Pin From Net: NetName=USB_CN_D- Pin=IC7-3
+Removed Pin From Net: NetName=GND Pin=IC7-4
+Removed Pin From Net: NetName=USB_VBUS Pin=IC7-6
+Removed Pin From Net: NetName=USB_VBUS Pin=J5-1
+Removed Pin From Net: NetName=USB_CN_D- Pin=J5-2
+Removed Pin From Net: NetName=USB_CN_D+ Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J5-S1
+Removed Pin From Net: NetName=GND Pin=J5-S2
+Removed Pin From Net: NetName=GND Pin=J5-S3
+Removed Pin From Net: NetName=GND Pin=J5-S4
+Removed Pin From Net: NetName=GND Pin=J5-S5
+Removed Pin From Net: NetName=GND Pin=J5-S6
+Removed Pin From Net: NetName=VCC_3V3 Pin=P1-1
+Removed Pin From Net: NetName=NetIC1_14 Pin=P1-3
+Removed Pin From Net: NetName=NetIC2_16 Pin=P1-10
+Removed Pin From Net: NetName=NetIC1_9 Pin=P1-11
+Removed Pin From Net: NetName=NetIC1_18 Pin=P1-12
+Removed Pin From Net: NetName=NetIC1_8 Pin=P1-13
+Removed Pin From Net: NetName=NetIC1_19 Pin=P1-14
+Removed Pin From Net: NetName=NetIC1_16 Pin=P1-16
+Removed Pin From Net: NetName=NetIC1_17 Pin=P1-18
+Removed Pin From Net: NetName=NetIC2_15 Pin=P1-23
+Removed Pin From Net: NetName=NetIC2_14 Pin=P1-25
+Removed Pin From Net: NetName=NetIC2_7 Pin=P2-24
+Removed Pin From Net: NetName=NetIC2_6 Pin=P2-25
+Removed Pin From Net: NetName=NetC17_2 Pin=P2-47
+Removed Pin From Net: NetName=NetIC1_3 Pin=P2-148
+Removed Pin From Net: NetName=NetIC1_2 Pin=P2-150
+Removed Pin From Net: NetName=GND Pin=P2-236
+Removed Pin From Net: NetName=GND Pin=P2-237
+Removed Pin From Net: NetName=GND Pin=P2-238
+Removed Pin From Net: NetName=GND Pin=P2-239
+Removed Pin From Net: NetName=GND Pin=P2-240
+Removed Pin From Net: NetName=GND Pin=P2-241
+Removed Pin From Net: NetName=GND Pin=P2-242
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=NetIC1_9 Pin=R1-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R1-2
+Removed Pin From Net: NetName=NetIC1_8 Pin=R2-1
+Removed Pin From Net: NetName=NetIC1_13 Pin=R2-2
+Removed Pin From Net: NetName=VGPIO Pin=R7-2
+Removed Pin From Net: NetName=VCC_1V8 Pin=R8-1
+Removed Pin From Net: NetName=VCC_1V8 Pin=R10-1
+Removed Pin From Net: NetName=NetP2_105 Pin=R10-2
+Removed Pin From Net: NetName=NetIC1_8 Pin=R14-2
+Removed Pin From Net: NetName=NetIC1_9 Pin=R15-2
+Removed Pin From Net: NetName=USB_VBUS Pin=R17-1
+Removed Pin From Net: NetName=NetP2_16 Pin=R17-2
+Removed Pin From Net: NetName=VCC_1V8 Pin=R19-1
+Removed Pin From Net: NetName=VCC_1V8 Pin=R22-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R23-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=VCC_3V7 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=UIM1_VCC Pin=R35-1
+Removed Pin From Net: NetName=NetD8_4 Pin=R35-2
+Removed Pin From Net: NetName=NetC46_2 Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R47-2
+Removed Pin From Net: NetName=NetP2_59 Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=GND Pin=SW1-5
+Removed Pin From Net: NetName=NetP2_59 Pin=SW3-1
+Removed Pin From Net: NetName=NetC17_2 Pin=SW3-7
+Removed Pin From Net: NetName=VCC_3V3 Pin=SW3-11
+Removed Pin From Net: NetName=VCC_3V7 Pin=SW3-14
+Removed Pin From Net: NetName=GND Pin=SW3-16
+Removed Pin From Net: NetName=USB_VBUS Pin=TP1-1
+Removed Pin From Net: NetName=USB_CN_D+ Pin=TP2-1
+Removed Pin From Net: NetName=USB_CN_D- Pin=TP3-1
+Removed Pin From Net: NetName=NetIC2_17 Pin=TP8-1
+Removed Pin From Net: NetName=VCC_1V8 Pin=TP9-1
+Removed Pin From Net: NetName=NetIC1_14 Pin=TP10-1
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Sheet1 Member=C10
+Removed Member From Class: ClassName=Sheet2 Member=C13
+Removed Member From Class: ClassName=Sheet2 Member=C16
+Removed Member From Class: ClassName=Sheet2 Member=C18
+Removed Member From Class: ClassName=Sheet2 Member=C19
+Removed Member From Class: ClassName=Sheet2 Member=C20
+Removed Member From Class: ClassName=Sheet2 Member=C24
+Removed Member From Class: ClassName=Sheet3 Member=C29
+Removed Member From Class: ClassName=Sheet4 Member=C31
+Removed Member From Class: ClassName=Sheet4 Member=C32
+Removed Member From Class: ClassName=Sheet5 Member=C46
+Removed Member From Class: ClassName=Sheet5 Member=C52
+Removed Member From Class: ClassName=Sheet5 Member=C53
+Removed Member From Class: ClassName=Sheet5 Member=C54
+Removed Member From Class: ClassName=Sheet5 Member=C62
+Removed Member From Class: ClassName=Sheet5 Member=C63
+Removed Member From Class: ClassName=Sheet5 Member=C66
+Removed Member From Class: ClassName=Sheet5 Member=C67
+Removed Member From Class: ClassName=Sheet7 Member=C68
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet3 Member=D5
+Removed Member From Class: ClassName=Sheet7 Member=I1
+Removed Member From Class: ClassName=Sheet1 Member=IC3
+Removed Member From Class: ClassName=Sheet3 Member=IC4
+Removed Member From Class: ClassName=Sheet7 Member=IC7
+Removed Member From Class: ClassName=Sheet7 Member=J5
+Removed Member From Class: ClassName=Sheet1 Member=Q2
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Sheet2 Member=R12
+Removed Member From Class: ClassName=Sheet2 Member=R13
+Removed Member From Class: ClassName=Sheet2 Member=R17
+Removed Member From Class: ClassName=Sheet2 Member=R19
+Removed Member From Class: ClassName=Sheet2 Member=R20
+Removed Member From Class: ClassName=Sheet3 Member=R22
+Removed Member From Class: ClassName=Sheet3 Member=R23
+Removed Member From Class: ClassName=Sheet3 Member=R24
+Removed Member From Class: ClassName=Sheet3 Member=R25
+Removed Member From Class: ClassName=Sheet3 Member=R26
+Removed Member From Class: ClassName=Sheet3 Member=R27
+Removed Member From Class: ClassName=Sheet3 Member=R28
+Removed Member From Class: ClassName=Sheet3 Member=R29
+Removed Member From Class: ClassName=Sheet3 Member=R30
+Removed Member From Class: ClassName=Sheet3 Member=R31
+Removed Member From Class: ClassName=Sheet4 Member=R35
+Removed Member From Class: ClassName=Sheet5 Member=R47
+Removed Member From Class: ClassName=Sheet3 Member=SW1
+Removed Member From Class: ClassName=Sheet3 Member=SW3
+Removed Member From Class: ClassName=Sheet7 Member=TP1
+Removed Member From Class: ClassName=Sheet7 Member=TP2
+Removed Member From Class: ClassName=Sheet7 Member=TP3
+Removed Member From Class: ClassName=Sheet7 Member=TP4
+Removed Member From Class: ClassName=Sheet1 Member=TP8
+Removed Member From Class: ClassName=Sheet1 Member=TP9
+Removed Member From Class: ClassName=Sheet1 Member=TP10
+Removed Member From Class: ClassName=Sheet2 Member=TP17
+Removed Member From Class: ClassName=Sheet2 Member=TP18
+Removed Member From Class: ClassName=Sheet2 Member=TP19
+Removed Member From Class: ClassName=Sheet2 Member=TP20
+Removed Member From Class: ClassName=Sheet2 Member=TP21
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X13 New Footprint=HDR2X11
+Change Component Comment : Designator=P1 Old Comment=Header 13X2 New Comment=Header 11X2
+Added Component: Designator=R?(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1ETTP/2019-RK73Z1ETTPCT-ND/9846740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1ETTP/2019-RK73Z1ETTPCT-ND/9846740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73Z1ETTP/2019-RK73Z1ETTPCT-ND/9846740"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC23_2 Pin=IC1-6
+Added Pin To Net: NetName=USB_VBUS Pin=P1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=P1-3
+Added Pin To Net: NetName=VCC_1V8 Pin=P1-5
+Added Pin To Net: NetName=NetIC1_17 Pin=P1-7
+Added Pin To Net: NetName=VCC_3V3 Pin=P1-8
+Added Pin To Net: NetName=NetIC1_16 Pin=P1-9
+Added Pin To Net: NetName=NetIC1_13 Pin=P1-10
+Added Pin To Net: NetName=NetIC1_14 Pin=P1-12
+Added Pin To Net: NetName=NetIC1_15 Pin=P1-14
+Added Pin To Net: NetName=NetIC1_2 Pin=P1-16
+Added Pin To Net: NetName=NetIC1_3 Pin=P1-18
+Added Pin To Net: NetName=NetIC2_14 Pin=P1-20
+Added Pin To Net: NetName=NetIC2_15 Pin=P1-22
+Added Pin To Net: NetName=NetC17_2 Pin=P2-44
+Added Pin To Net: NetName=NetIC1_8 Pin=P2-53
+Added Pin To Net: NetName=NetIC1_9 Pin=P2-54
+Added Pin To Net: NetName=NetIC1_18 Pin=P2-92
+Added Pin To Net: NetName=NetIC1_19 Pin=P2-102
+Added Pin To Net: NetName=NetIC2_6 Pin=P2-107
+Added Pin To Net: NetName=NetIC2_7 Pin=P2-108
+Added Pin To Net: NetName=NetP2_59 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetIC2_16 Pin=R?-2
+Added Pin To Net: NetName=NetIC2_17 Pin=R?-2
+Added Pin To Net: NetName=WAKE_ON_WWAN Pin=TP?-1
+Change Net Name : Old Net Name=NetC32_2 New Net Name=NetP2_64
+Change Net Name : Old Net Name=NetC46_2 New Net Name=NetIC6_7
+Change Net Name : Old Net Name=NetI1_3 New Net Name=NetI2_3
+Change Net Name : Old Net Name=NetI1_4 New Net Name=NetI2_4
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=P2-100
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=P2-52
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_4 Pin=P1-13
+Added Pin To Net: NetName=NetIC2_4 Pin=R14-2
+Added Pin To Net: NetName=NetIC2_4 Pin=R?-1
+Added Net: Name=NetIC2_4
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=P1-11
+Added Pin To Net: NetName=NetIC2_5 Pin=R15-2
+Added Pin To Net: NetName=NetIC2_5 Pin=R?-1
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=P2-49
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=P2-31
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetP2_24 Pin=P2-24
+Added Net: Name=NetP2_24
+Added Pin To Net: NetName=NetP2_25 Pin=P2-25
+Added Net: Name=NetP2_25
+Added Pin To Net: NetName=NetP2_148 Pin=P2-148
+Added Net: Name=NetP2_148
+Added Pin To Net: NetName=NetP2_150 Pin=P2-150
+Added Net: Name=NetP2_150
+Added Member To Class: ClassName=Sheet3 Member=Component Q2 NSBC114YDP6T5G
+Added Member To Class: ClassName=Sheet1 Member=Component R? DNI
+Added Member To Class: ClassName=Sheet1 Member=Component R? DNI
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component TP? TestPoint

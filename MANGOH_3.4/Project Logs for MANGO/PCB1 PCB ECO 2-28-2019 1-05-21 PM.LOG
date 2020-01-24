@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=P?-3
+Removed Member From Class: ClassName=Sheet2 Member=C?
+Removed Member From Class: ClassName=Sheet2 Member=P?
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J?-1
+Added Pin To Net: NetName=NetC?_2 Pin=P?-3
+Added Member To Class: ClassName=Sheet5 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet5 Member=Component IC? USB ESD Solution with Power
+Added Member To Class: ClassName=Sheet5 Member=Component J? ZX62R-B-5P
+Added Member To Class: ClassName=Sheet5 Member=Component P? Header 3

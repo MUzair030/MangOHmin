@@ -1,0 +1,117 @@
+Added Component: Designator=TP6(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP10(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP11(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP12(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP13(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP14(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP15(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP16(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP17(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP18(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP19(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP20(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP21(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP22(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP23(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP24(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP25(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP26(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP27(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP28(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP29(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP30(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP31(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP32(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP33(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC_1V8 Pin=TP6-1
+Added Pin To Net: NetName=VCC_1V8 Pin=TP7-1
+Added Pin To Net: NetName=VCC_1V8 Pin=TP9-1
+Added Pin To Net: NetName=NetIC1_14 Pin=TP10-1
+Added Pin To Net: NetName=NetC32_2 Pin=TP11-1
+Added Pin To Net: NetName=NetP2_66 Pin=TP12-1
+Added Pin To Net: NetName=NetP2_1 Pin=TP13-1
+Added Pin To Net: NetName=NetI1_3 Pin=TP14-1
+Added Pin To Net: NetName=NetI1_4 Pin=TP15-1
+Added Pin To Net: NetName=NetP2_16 Pin=TP16-1
+Added Pin To Net: NetName=ANT_CTL_0 Pin=TP18-1
+Added Pin To Net: NetName=ANT_CTL_1 Pin=TP19-1
+Added Pin To Net: NetName=ANT_CTL_2 Pin=TP20-1
+Added Pin To Net: NetName=ANT_CTL_3 Pin=TP21-1
+Added Pin To Net: NetName=NetC28_2 Pin=TP22-1
+Added Pin To Net: NetName=NetP2_60 Pin=TP23-1
+Added Pin To Net: NetName=UIM1_VCC Pin=TP25-1
+Added Pin To Net: NetName=VCC_2V95 Pin=TP26-1
+Added Pin To Net: NetName=VCC_3V3 Pin=TP27-1
+Added Pin To Net: NetName=NetC36_2 Pin=TP28-1
+Added Pin To Net: NetName=NetC43_2 Pin=TP29-1
+Added Pin To Net: NetName=NetC41_2 Pin=TP30-1
+Added Pin To Net: NetName=VBATT_RF Pin=TP31-1
+Added Pin To Net: NetName=VBATT_MAIN_Supply Pin=TP32-1
+Added Pin To Net: NetName=VBATT_BB Pin=TP33-1
+Added Pin To Net: NetName=NetIC2_17 Pin=IC2-17
+Added Pin To Net: NetName=NetIC2_17 Pin=TP8-1
+Added Net: Name=NetIC2_17
+Added Pin To Net: NetName=NetP2_152 Pin=P2-152
+Added Pin To Net: NetName=NetP2_152 Pin=TP17-1
+Added Net: Name=NetP2_152
+Added Pin To Net: NetName=NetTP24_1 Pin=TP24-1
+Added Net: Name=NetTP24_1
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 TestPoint
+Added Member To Class: ClassName=Sheet1 Member=Component TP7 TestPoint
+Added Member To Class: ClassName=Sheet1 Member=Component TP8 TestPoint
+Added Member To Class: ClassName=Sheet1 Member=Component TP9 TestPoint
+Added Member To Class: ClassName=Sheet1 Member=Component TP10 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP11 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP12 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP13 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP14 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP15 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP16 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP17 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP18 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP19 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP20 TestPoint
+Added Member To Class: ClassName=Sheet2 Member=Component TP21 TestPoint
+Added Member To Class: ClassName=Sheet3 Member=Component TP22 TestPoint
+Added Member To Class: ClassName=Sheet3 Member=Component TP23 TestPoint
+Added Member To Class: ClassName=Sheet3 Member=Component TP24 TestPoint
+Added Member To Class: ClassName=Sheet4 Member=Component TP25 TestPoint
+Added Member To Class: ClassName=Sheet4 Member=Component TP26 TestPoint
+Added Member To Class: ClassName=Sheet4 Member=Component TP27 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP28 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP29 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP30 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP31 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP32 TestPoint
+Added Member To Class: ClassName=Sheet5 Member=Component TP33 TestPoint

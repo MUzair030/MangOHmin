@@ -1,0 +1,357 @@
+Removed Pin From Net: NetName=UIM1_VCC Pin=D7-4
+Removed Pin From Net: NetName=NetIC4_3 Pin=IC4-6
+Removed Pin From Net: NetName=USB_CN_D+ Pin=IC6-2
+Removed Pin From Net: NetName=USB_CN_D- Pin=IC6-3
+Removed Pin From Net: NetName=GND Pin=IC6-4
+Removed Pin From Net: NetName=USB_VBUS Pin=IC6-6
+Removed Pin From Net: NetName=UIM1_VCC Pin=J4-S7
+Removed Pin From Net: NetName=NetIC4_7 Pin=J4-T3
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetIC4_7 Pin=R51-1
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Member From Class: ClassName=Sheet5 Member=IC6
+Change Component Comment : Designator=D5 Old Comment=ESD New Comment=DNI
+Change Component Comment : Designator=R16 Old Comment=Res1 New Comment=DNI
+Change Component Comment : Designator=R22 Old Comment=Res1 New Comment=DNI
+Change Component Comment : Designator=R23 Old Comment=Res1 New Comment=DNI
+Change Component Comment : Designator=R31 Old Comment=Res1 New Comment=DNI
+Change Component Comment : Designator=R44 Old Comment=Res1 New Comment=DNI
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R47
+Change Component Designator: OldDesignator=R45 NewDesignator=R48
+Change Component Designator: OldDesignator=R46 NewDesignator=R49
+Change Component Designator: OldDesignator=R47 NewDesignator=R50
+Change Component Designator: OldDesignator=R48 NewDesignator=R52
+Change Component Designator: OldDesignator=R49 NewDesignator=R54
+Change Component Designator: OldDesignator=R50 NewDesignator=R55
+Change Component Designator: OldDesignator=R51 NewDesignator=R57
+Change Component Designator: OldDesignator=R52 NewDesignator=R58
+Change Component Designator: OldDesignator=R53 NewDesignator=R59
+Change Component Designator: OldDesignator=R54 NewDesignator=R60
+Change Component Designator: OldDesignator=R55 NewDesignator=R61
+Change Component Designator: OldDesignator=R56 NewDesignator=R62
+Change component parameters: Designator = "D4"; Footprint = "LED_3_PIN"; UniqueID = "\ENNNDFEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "LED_3_PIN"; UniqueID = "\SJGPEVCU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "12-21SYGC/S530-E2/TR8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "I1"; Footprint = "Inductor_TCM1210-900-2P-T000"; UniqueID = "\YCFVFBYQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TCM1210-900-2P-T000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4"; Footprint = "Molex_104168-1620_MFG"; UniqueID = "\QQEFFDIO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "104168-1620"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1"; Footprint = "Switch_SKTDLDE010"; UniqueID = "\BUNMPSDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SKTDLDE010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2"; Footprint = "Switch_SKTDLDE010"; UniqueID = "\DHQVQSQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SKTDLDE010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; UniqueID = "\HMHCNLNC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "74AUP1G08GM"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "NSBC114YDP6T5G"; UniqueID = "\BPFGORDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NSBC114YDP6T5G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "I2"; Footprint = "Inductor_TCM1210-900-2P-T000"; UniqueID = "\LRKYULCX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TCM1210-900-2P-T000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1"; Footprint = "DQFN-20"; UniqueID = "\AXBBFAXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = "512-FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DQFN-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = "8076121P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/8076121P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "FXMA108BQX"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2"; Footprint = "SOT95P275X110-5N"; UniqueID = "\PGOLPNJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70467006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied_Price-Stock"; Value = "http://www.alliedelec.com/on-semiconductor-ncp303lsn30t1g/70467006/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = "863-NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT95P275X110-5N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = "1630682"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/1630682"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "NCP303LSN30T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3"; Footprint = "SOP65P640X120-16N"; UniqueID = "\LRKDAFXY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = "595-TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOP65P640X120-16N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = "595-TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "TCA9546APWR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4"; Footprint = "RSE0008A"; UniqueID = "\NWLDDYGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = "595-TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RSE0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = "1626446"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/1626446"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "TPD6E004RSER"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC5"; Footprint = "SON50P100X145X60-6N"; UniqueID = "\JRPVVIIQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Part_Number"; Value = "595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SON50P100X145X60-6N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Part_Number"; Value = "9215125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS_Price-Stock"; Value = "http://uk.rs-online.com/web/p/products/9215125"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "TPD4S012DRYR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3"; Footprint = "SW8_1571983"; UniqueID = "\FSJNJGBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration_(Pole-Throw)"; Value = "Single Pole - Single Throw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max_Switching_Current"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max_Switching_Voltage(AC)"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1-1571983-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch_Type"; Value = "DIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TE_Part_Number"; Value = "1-1571983-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "USPQ-4B03"; UniqueID = "\SWAXELIE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "XC6223H29B9R-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5"; Footprint = "*HRS_ZX62R-B-5P_ZX62R-B-5P(Primary)"; UniqueID = "\SXRNBEMI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ZX62R-B-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62R-B-5P/Hirose%20Electric%20Co%20Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6"; Footprint = "*MOLEX_105450-0101"; UniqueID = "\XGUUSQYQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "1054500101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1054500101/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "*SIERRA_WP_SNAP-IN_BASE_WP_SNAP-IN_BASE(Primary)"; UniqueID = "\EBAOTHRY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Sierra Wireless"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "WP SNAP-IN BASE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WP%20SNAP-IN%20BASE/Sierra%20Wireless/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "QFN-16_N"; UniqueID = "\BXEFMYPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-220WGGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "FT230X Product Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "www.ftdichip.com/Products/ICs/FT230X.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "ver 1.2, Feb-2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "16-Pin Quad Flat No-Lead, 4x4 mm Body, 0.65 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "QFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Feb-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FT230XQ-R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MCR01MZPF1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RK73Z1ETTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES 0402/1005)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-T6
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetIC3_6 Pin=R45-1
+Added Pin To Net: NetName=NetIC3_7 Pin=R46-1
+Added Pin To Net: NetName=NetIC3_7 Pin=R51-2
+Added Pin To Net: NetName=NetIC3_6 Pin=R53-2
+Added Pin To Net: NetName=UIM1_VCC Pin=R56-1
+Added Pin To Net: NetName=NetIC4_7 Pin=R62-2
+Added Pin To Net: NetName=NetI1_3 Pin=U1-6
+Added Pin To Net: NetName=NetI1_4 Pin=U1-7
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR32_2
+Change Net Name : Old Net Name=NetR45_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR49_1
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=J4-S7
+Added Pin To Net: NetName=NetD7_4 Pin=R56-2
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=NetIC4_6 Pin=IC4-6
+Added Pin To Net: NetName=NetIC4_6 Pin=J4-T3
+Added Pin To Net: NetName=NetIC4_6 Pin=R57-1
+Added Net: Name=NetIC4_6
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-9
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Net: Name=NetR53_1
+Added Member To Class: ClassName=Sheet1 Member=Component R2 DNI
+Added Member To Class: ClassName=Sheet3 Member=Component R51 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R52 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R53 Res1
+Added Member To Class: ClassName=Sheet3 Member=Component R54 Res1
+Added Member To Class: ClassName=Sheet4 Member=Component R62 Res1
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5

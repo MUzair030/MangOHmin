@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=USB_VBUS Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=VCC_1V8 Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=VCC_3V3 Pin=P1-8
+Removed Pin From Net: NetName=NetIC2_5 Pin=P1-11
+Removed Pin From Net: NetName=NetIC2_4 Pin=P1-13
+Removed Member From Class: ClassName=Sheet1 Member=J?
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=P?
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Added Component: Designator=H1(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H7(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H8(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H9(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H10(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H11(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H12(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H13(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H14(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H15(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H16(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H17(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H18(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H19(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H20(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H21(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H22(PIN1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=USB_VBUS Pin=H4-1
+Added Pin To Net: NetName=VCC_3V3 Pin=H6-1
+Added Pin To Net: NetName=VCC_1V8 Pin=H8-1
+Added Pin To Net: NetName=GND Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H14-1
+Added Pin To Net: NetName=NetIC2_5 Pin=H16-1
+Added Pin To Net: NetName=NetIC2_4 Pin=H17-1
+Added Pin To Net: NetName=VCC_3V3 Pin=H18-1
+Change Net Name : Old Net Name=NetIC2_4 New Net Name=NetH17_1
+Change Net Name : Old Net Name=NetIC2_5 New Net Name=NetH16_1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=IC1-17
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_1 Pin=IC2-15
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_1 Pin=IC1-16
+Added Net: Name=NetH3_1
+Added Pin To Net: NetName=NetH5_1 Pin=H5-1
+Added Pin To Net: NetName=NetH5_1 Pin=IC1-2
+Added Net: Name=NetH5_1
+Added Pin To Net: NetName=NetH7_1 Pin=H7-1
+Added Pin To Net: NetName=NetH7_1 Pin=IC1-3
+Added Net: Name=NetH7_1
+Added Pin To Net: NetName=NetH9_1 Pin=H9-1
+Added Pin To Net: NetName=NetH9_1 Pin=IC2-18
+Added Net: Name=NetH9_1
+Added Pin To Net: NetName=NetH11_1 Pin=H11-1
+Added Pin To Net: NetName=NetH11_1 Pin=IC2-19
+Added Net: Name=NetH11_1
+Added Pin To Net: NetName=NetH13_1 Pin=H13-1
+Added Pin To Net: NetName=NetH13_1 Pin=IC2-12
+Added Net: Name=NetH13_1
+Added Pin To Net: NetName=NetH15_1 Pin=H15-1
+Added Pin To Net: NetName=NetH15_1 Pin=IC2-13
+Added Net: Name=NetH15_1
+Added Pin To Net: NetName=NetH19_1 Pin=H19-1
+Added Pin To Net: NetName=NetH19_1 Pin=IC1-13
+Added Net: Name=NetH19_1
+Added Pin To Net: NetName=NetH20_1 Pin=H20-1
+Added Pin To Net: NetName=NetH20_1 Pin=IC1-14
+Added Net: Name=NetH20_1
+Added Pin To Net: NetName=NetH21_1 Pin=H21-1
+Added Pin To Net: NetName=NetH21_1 Pin=IC1-15
+Added Net: Name=NetH21_1
+Added Pin To Net: NetName=NetH22_1 Pin=H22-1
+Added Pin To Net: NetName=NetH22_1 Pin=IC2-14
+Added Net: Name=NetH22_1
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H3 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H4 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H5 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H6 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H7 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H8 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H9 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H10 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H11 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H12 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H13 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H14 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H15 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H16 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H17 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H18 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H19 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H20 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H21 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component H22 Header 1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 DNI
+Added Member To Class: ClassName=Sheet1 Member=Component R2 DNI

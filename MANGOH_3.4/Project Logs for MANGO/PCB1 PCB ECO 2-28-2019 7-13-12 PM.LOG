@@ -1,0 +1,84 @@
+Removed Member From Class: ClassName=Sheet3 Member=U4
+Added Component: Designator=J4(Molex_104168-1620_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(*HRS_ZX62R-B-5P_ZX62R-B-5P(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ZX62R-B-5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ZX62R-B-5P/Hirose%20Electric%20Co%20Ltd/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW8_1571983)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration_(Pole-Throw)"; Value = "Single Pole - Single Throw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-1571983-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Switching_Current"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Switching_Voltage(AC)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch_Type"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Part_Number"; Value = "1-1571983-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-G1
+Added Pin To Net: NetName=GND Pin=J4-G2
+Added Pin To Net: NetName=GND Pin=J4-G3
+Added Pin To Net: NetName=GND Pin=J4-G4
+Added Pin To Net: NetName=GND Pin=J4-G5
+Added Pin To Net: NetName=GND Pin=J4-G6
+Added Pin To Net: NetName=GND Pin=J4-G7
+Added Pin To Net: NetName=GND Pin=J4-G8
+Added Pin To Net: NetName=UIM1_VCC Pin=J4-S1
+Added Pin To Net: NetName=NetD7_1 Pin=J4-S2
+Added Pin To Net: NetName=NetD7_3 Pin=J4-S3
+Added Pin To Net: NetName=GND Pin=J4-S5
+Added Pin To Net: NetName=UIM1_VCC Pin=J4-S7
+Added Pin To Net: NetName=NetC28_2 Pin=J4-S/W
+Added Pin To Net: NetName=NetIC4_3 Pin=J4-T1
+Added Pin To Net: NetName=NetIC4_5 Pin=J4-T2
+Added Pin To Net: NetName=NetIC4_7 Pin=J4-T3
+Added Pin To Net: NetName=VCC_2V95 Pin=J4-T4
+Added Pin To Net: NetName=NetJ4_T5 Pin=J4-T5
+Added Pin To Net: NetName=NetIC4_1 Pin=J4-T7
+Added Pin To Net: NetName=NetIC4_2 Pin=J4-T8
+Added Pin To Net: NetName=NetC40_2 Pin=J5-1
+Added Pin To Net: NetName=USB_CN_D- Pin=J5-2
+Added Pin To Net: NetName=USB_CN_D+ Pin=J5-3
+Added Pin To Net: NetName=NetIC5_1 Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-S1
+Added Pin To Net: NetName=GND Pin=J5-S2
+Added Pin To Net: NetName=GND Pin=J5-S3
+Added Pin To Net: NetName=GND Pin=J5-S4
+Added Pin To Net: NetName=GND Pin=J5-S5
+Added Pin To Net: NetName=GND Pin=J5-S6
+Added Pin To Net: NetName=NetP1_59 Pin=SW3-1
+Added Pin To Net: NetName=NetSW3_2 Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-3
+Added Pin To Net: NetName=NetR30_1 Pin=SW3-4
+Added Pin To Net: NetName=NetSW3_5 Pin=SW3-5
+Added Pin To Net: NetName=NetSW3_6 Pin=SW3-6
+Added Pin To Net: NetName=NetC25_2 Pin=SW3-7
+Added Pin To Net: NetName=NetP1_46 Pin=SW3-8
+Added Pin To Net: NetName=NetR27_1 Pin=SW3-9
+Added Pin To Net: NetName=NetR26_1 Pin=SW3-10
+Added Pin To Net: NetName=VCC_3V3 Pin=SW3-11
+Added Pin To Net: NetName=NetR25_1 Pin=SW3-12
+Added Pin To Net: NetName=NetR18_2 Pin=SW3-13
+Added Pin To Net: NetName=VCC_3V7 Pin=SW3-14
+Added Pin To Net: NetName=NetR19_1 Pin=SW3-15
+Added Pin To Net: NetName=GND Pin=SW3-16
+Added Member To Class: ClassName=Sheet4 Member=Component J4 104168-1620
+Added Member To Class: ClassName=Sheet5 Member=Component J5 ZX62R-B-5P
+Added Member To Class: ClassName=Sheet3 Member=Component SW3 Part Number: 1-1571983-1
+Added Member To Class: ClassName=Sheet3 Member=Component U3 B: NSBC114YDP6T5G
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
+Added Room: Name=Sheet5

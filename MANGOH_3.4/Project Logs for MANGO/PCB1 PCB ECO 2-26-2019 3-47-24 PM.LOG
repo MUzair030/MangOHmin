@@ -1,0 +1,221 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=UIM_VCC Pin=IC?-26
+Removed Pin From Net: NetName=GND Pin=IC?-30
+Removed Pin From Net: NetName=GND Pin=IC?-32
+Removed Pin From Net: NetName=GND Pin=IC?-37
+Removed Pin From Net: NetName=GND Pin=IC?-39
+Removed Pin From Net: NetName=GND Pin=IC?-48
+Removed Pin From Net: NetName=GND Pin=IC?-50
+Removed Pin From Net: NetName=VBAT_RF Pin=IC?-61
+Removed Pin From Net: NetName=VBAT_RF Pin=IC?-62
+Removed Pin From Net: NetName=VBATT_BB Pin=IC?-63
+Removed Pin From Net: NetName=GND Pin=IC?-67
+Removed Pin From Net: NetName=GND Pin=IC?-68
+Removed Pin From Net: NetName=GND Pin=IC?-69
+Removed Pin From Net: NetName=GND Pin=IC?-70
+Removed Pin From Net: NetName=WAKE_ON_WWAN Pin=IC?-110
+Removed Pin From Net: NetName=GND Pin=IC?-111
+Removed Pin From Net: NetName=GND Pin=IC?-112
+Removed Pin From Net: NetName=GND Pin=IC?-125
+Removed Pin From Net: NetName=GND Pin=IC?-128
+Removed Pin From Net: NetName=GND Pin=IC?-136
+Removed Pin From Net: NetName=GND Pin=IC?-139
+Removed Pin From Net: NetName=NetC?_1 Pin=P?-40
+Removed Pin From Net: NetName=NetC?_2 Pin=P?-149
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=VGPIO Pin=R?-1
+Removed Member From Class: ClassName=Sheet1 Member=IC?
+Change component parameters: Designator = "C?"; Footprint = "0402"; UniqueID = "\FCMGIGYS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UMK105CG220JV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?"; Footprint = "0402"; UniqueID = "\VKWASXSE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LMK105BJ104KV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?"; Footprint = "0402"; UniqueID = "\AAOUJULP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM155R60J475ME87D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?"; Footprint = "0402"; UniqueID = "\UPCAJJWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LMK105BJ104KV-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?"; Footprint = "RES 0402/1005"; UniqueID = "\TTDXSPDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MCR01MZPF1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U?(QFN-16_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-220WGGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "FT230X Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.ftdichip.com/Products/ICs/FT230X.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 1.2, Feb-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FTDI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Quad Flat No-Lead, 4x4 mm Body, 0.65 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "QFN-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FT230XQ-R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=P?-36
+Added Pin To Net: NetName=WAKE_ON_WWAN Pin=P?-110
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=NetC?_1 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-17
+Added Pin To Net: NetName=CTS_FTDI Pin=U?-4
+Added Net: Name=CTS_FTDI
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=NetP?_4 Pin=P?-4
+Added Net: Name=NetP?_4
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Net: Name=NetP?_5
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Net: Name=NetP?_6
+Added Pin To Net: NetName=NetP?_10 Pin=P?-10
+Added Net: Name=NetP?_10
+Added Pin To Net: NetName=NetP?_11 Pin=P?-11
+Added Net: Name=NetP?_11
+Added Pin To Net: NetName=NetP?_12 Pin=P?-12
+Added Net: Name=NetP?_12
+Added Pin To Net: NetName=NetP?_13 Pin=P?-13
+Added Net: Name=NetP?_13
+Added Pin To Net: NetName=NetP?_14 Pin=P?-14
+Added Net: Name=NetP?_14
+Added Pin To Net: NetName=NetP?_15 Pin=P?-15
+Added Net: Name=NetP?_15
+Added Pin To Net: NetName=NetP?_19 Pin=P?-19
+Added Net: Name=NetP?_19
+Added Pin To Net: NetName=NetP?_21 Pin=P?-21
+Added Net: Name=NetP?_21
+Added Pin To Net: NetName=NetP?_24 Pin=P?-24
+Added Net: Name=NetP?_24
+Added Pin To Net: NetName=NetP?_27 Pin=P?-27
+Added Net: Name=NetP?_27
+Added Pin To Net: NetName=NetP?_28 Pin=P?-28
+Added Net: Name=NetP?_28
+Added Pin To Net: NetName=NetP?_29 Pin=P?-29
+Added Net: Name=NetP?_29
+Added Pin To Net: NetName=NetP?_31 Pin=P?-31
+Added Net: Name=NetP?_31
+Added Pin To Net: NetName=NetP?_38 Pin=P?-38
+Added Net: Name=NetP?_38
+Added Pin To Net: NetName=NetP?_46 Pin=P?-46
+Added Net: Name=NetP?_46
+Added Pin To Net: NetName=NetP?_49 Pin=P?-49
+Added Net: Name=NetP?_49
+Added Pin To Net: NetName=NetP?_52 Pin=P?-52
+Added Net: Name=NetP?_52
+Added Pin To Net: NetName=NetP?_53 Pin=P?-53
+Added Net: Name=NetP?_53
+Added Pin To Net: NetName=NetP?_54 Pin=P?-54
+Added Net: Name=NetP?_54
+Added Pin To Net: NetName=NetP?_59 Pin=P?-59
+Added Net: Name=NetP?_59
+Added Pin To Net: NetName=NetP?_60 Pin=P?-60
+Added Net: Name=NetP?_60
+Added Pin To Net: NetName=NetP?_64 Pin=P?-64
+Added Net: Name=NetP?_64
+Added Pin To Net: NetName=NetP?_65 Pin=P?-65
+Added Net: Name=NetP?_65
+Added Pin To Net: NetName=NetP?_92 Pin=P?-92
+Added Net: Name=NetP?_92
+Added Pin To Net: NetName=NetP?_96 Pin=P?-96
+Added Net: Name=NetP?_96
+Added Pin To Net: NetName=NetP?_97 Pin=P?-97
+Added Net: Name=NetP?_97
+Added Pin To Net: NetName=NetP?_107 Pin=P?-107
+Added Net: Name=NetP?_107
+Added Pin To Net: NetName=NetP?_108 Pin=P?-108
+Added Net: Name=NetP?_108
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Net: Name=NetU?_6
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=RTS_FTDI Pin=U?-16
+Added Net: Name=RTS_FTDI
+Added Pin To Net: NetName=RX_FTDI Pin=U?-2
+Added Net: Name=RX_FTDI
+Added Pin To Net: NetName=TX_FTDI Pin=U?-15
+Added Net: Name=TX_FTDI
+Added Pin To Net: NetName=USB_VBUS_CONSOLE Pin=C?-2
+Added Pin To Net: NetName=USB_VBUS_CONSOLE Pin=C?-2
+Added Pin To Net: NetName=USB_VBUS_CONSOLE Pin=U?-10
+Added Net: Name=USB_VBUS_CONSOLE
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Sheet2 Member=Component P? WP_SNAP-IN_BASE
+Added Member To Class: ClassName=Sheet2 Member=Component P? WP_SNAP-IN_BASE
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U? FT230XQ-R

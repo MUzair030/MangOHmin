@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=J7-1
+Change Component Footprint: Designator=C46 Old Footprint=1608[0603] New Footprint=CAP 0603/1608
+Added Component: Designator=TP1(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TestPoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TestPoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=USB_VBUS Pin=TP1-1
+Added Pin To Net: NetName=USB_CN_D+ Pin=TP2-1
+Added Pin To Net: NetName=USB_CN_D- Pin=TP3-1
+Added Pin To Net: NetName=NetIC7_1 Pin=TP4-1
+Added Pin To Net: NetName=VCC_3V7 Pin=TP5-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=L10-1
+Added Net: Name=NetJ7_1
+Added Member To Class: ClassName=Sheet7 Member=Component TP1 TestPoint
+Added Member To Class: ClassName=Sheet7 Member=Component TP2 TestPoint
+Added Member To Class: ClassName=Sheet7 Member=Component TP3 TestPoint
+Added Member To Class: ClassName=Sheet7 Member=Component TP4 TestPoint
+Added Member To Class: ClassName=Sheet7 Member=Component TP5 TestPoint
